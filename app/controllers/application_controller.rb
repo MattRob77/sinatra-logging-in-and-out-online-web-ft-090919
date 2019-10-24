@@ -22,6 +22,7 @@ class ApplicationController < Sinatra::Base
    
 
   get '/account' do
+    
 
   end
 
