@@ -5,5 +5,5 @@ class Helpers
   end 
   
   def self.is_logged_in?(session_hash)
-    
+    session_hash.include?
 end
